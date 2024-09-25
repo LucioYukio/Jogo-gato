@@ -1,0 +1,1 @@
+local destinado para armazenar todo tipo de imagem necessária para o jogo
